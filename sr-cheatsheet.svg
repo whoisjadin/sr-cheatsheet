@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="324px" height="450px" viewBox="0 0 324 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sr-cheatsheet</title>
+    <g id="sr-cheatsheet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M288.237413,-1043 C211.666411,-341.363971 668.920607,10.9693619 1660,14" id="Path-2" stroke="#00B9D2" stroke-width="3"></path>
+        <rect id="Rectangle" fill="#3647FF" x="0" y="0" width="324" height="450" rx="8"></rect>
+        <rect id="Rectangle" fill="#161616" x="0" y="101" width="238" height="50"></rect>
+        <rect id="Rectangle" fill="#161616" x="0" y="50" width="324" height="50"></rect>
+        <path d="M238,101 L324,101 L324,442 C324,446.418278 320.418278,450 316,450 L238,450 L238,450 L238,101 Z" id="Rectangle" fill="#161616"></path>
+        <g id="Group-10" transform="translate(14.000000, 60.000000)">
+            <g id="Group-7" transform="translate(151.000000, 0.000000)">
+                <g id="Group-6" transform="translate(59.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="43" height="29" rx="5"></rect>
+                    <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                        <tspan x="6.39353692" y="18">Opt</tspan>
+                    </text>
+                    <rect id="Rectangle" fill="#FFFFFF" x="61" y="0" width="27" height="29" rx="5"></rect>
+                    <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                        <tspan x="69.1995383" y="18">A</tspan>
+                    </text>
+                </g>
+                <g id="Group-4">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="41" height="29" rx="5"></rect>
+                    <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                        <tspan x="6.01348542" y="18">Ctrl</tspan>
+                    </text>
+                </g>
+                <text id="label" opacity="0.496023996" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" line-spacing="28" letter-spacing="0.300000012" fill="#FFFFFF">
+                    <tspan x="43.2005859" y="21">+</tspan>
+                </text>
+                <text id="label" opacity="0.496023996" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" line-spacing="28" letter-spacing="0.300000012" fill="#FFFFFF">
+                    <tspan x="104.200586" y="21">+</tspan>
+                </text>
+            </g>
+            <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#FFFFFF">
+                <tspan x="0.923117849" y="18">Stop:</tspan>
+            </text>
+            <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#FFFFFF">
+                <tspan x="102.196555" y="18">Read:</tspan>
+            </text>
+            <g id="Group-4" transform="translate(46.000000, 0.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="41" height="29" rx="5"></rect>
+                <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                    <tspan x="6.01348542" y="18">Ctrl</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-9" transform="translate(14.000000, 112.000000)">
+            <g id="Group-7" transform="translate(109.000000, 0.000000)">
+                <g id="Group-6" transform="translate(59.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="43" height="29" rx="5"></rect>
+                    <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                        <tspan x="6.39353692" y="18">Opt</tspan>
+                    </text>
+                </g>
+                <g id="Group-4">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="41" height="29" rx="5"></rect>
+                    <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                        <tspan x="6.01348542" y="18">Ctrl</tspan>
+                    </text>
+                </g>
+                <text id="label" opacity="0.5" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" line-spacing="28" letter-spacing="0.300000012" fill="#FFFFFF">
+                    <tspan x="43.2005859" y="21">+</tspan>
+                </text>
+            </g>
+            <text id="label" opacity="0.5" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="14" font-weight="normal" line-spacing="28" letter-spacing="-1.33333333" fill="#FFFFFF">
+                <tspan x="255" y="32">arrow-down</tspan>
+            </text>
+            <text id="symbol" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" fill="#FFFFFF">
+                <tspan x="0" y="21">Navigate:</tspan>
+            </text>
+            <text id="symbol" opacity="0.5" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" fill="#FFFFFF">
+                <tspan x="217.412109" y="22">+ below</tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(224.000000, 9.000000)">
+            <g id="Group-6" transform="translate(53.000000, 0.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="35" height="29" rx="5"></rect>
+                <text id="label" font-family="SFProDisplay-Bold, SF Pro Display" font-size="18" font-weight="bold" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                    <tspan x="7.19448685" y="18">F5</tspan>
+                </text>
+            </g>
+            <g id="Group-4">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="35" height="29" rx="5"></rect>
+                <text id="label" font-family="SFProDisplay-Bold, SF Pro Display" font-size="18" font-weight="bold" line-spacing="28" letter-spacing="0.245454555" fill="#000000">
+                    <tspan x="9.44416725" y="18">⌘</tspan>
+                </text>
+            </g>
+            <text id="label" opacity="0.496023996" font-family="SFProDisplay-Regular, SF Pro Display" font-size="22" font-weight="normal" line-spacing="28" letter-spacing="0.300000012" fill="#FFFFFF">
+                <tspan x="37.2005859" y="21">+</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(259.000000, 156.000000)" fill="#FFFFFF" line-spacing="28">
+            <text id="label" font-family="SFProDisplay-Bold, SF Pro Display" font-size="18" font-weight="bold" letter-spacing="0.245454555">
+                <tspan x="0" y="107">⌘+L</tspan>
+                <tspan x="0" y="135">⌘+V</tspan>
+                <tspan x="0" y="163">⌘+H</tspan>
+                <tspan x="0" y="191">⌘+J</tspan>
+                <tspan x="0" y="219">⌘+T</tspan>
+                <tspan x="0" y="247">⌘+X</tspan>
+                <tspan x="0" y="275">⌘+G</tspan>
+            </text>
+            <text id="label" font-family="SFProDisplay-Bold, SF Pro Display" font-size="18" font-weight="bold" letter-spacing="0.245454555">
+                <tspan x="0" y="17">+U</tspan>
+            </text>
+            <text id="label" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="21" font-weight="700" letter-spacing="-2">
+                <tspan x="0" y="46">chevron-left   chevron-right </tspan>
+                <tspan x="0" y="74">chevron-up chevron-down</tspan>
+            </text>
+        </g>
+        <text id="label" font-family="SFProDisplay-Regular, SF Pro Display" font-size="18" font-weight="normal" line-spacing="28" letter-spacing="0.245454555" fill="#FFFFFF">
+            <tspan x="74.2891866" y="173">Show Menu (Rotor)</tspan>
+            <tspan x="119.338086" y="201">Menu Groups</tspan>
+            <tspan x="68.5863635" y="229">Next/Previous Items</tspan>
+            <tspan x="191.685174" y="257">Link</tspan>
+            <tspan x="134.868998" y="285">Visited Link</tspan>
+            <tspan x="158.429279" y="313">Heading</tspan>
+            <tspan x="123.51353" y="341">Form Control</tspan>
+            <tspan x="182.782493" y="369">Table</tspan>
+            <tspan x="196.106072" y="397">List</tspan>
+            <tspan x="162.876545" y="425">Graphic</tspan>
+        </text>
+        <text id="label" font-family="SFProDisplay-Bold, SF Pro Display" font-size="28" font-weight="bold" line-spacing="28" letter-spacing="0.381818197" fill="#FFFFFF">
+            <tspan x="13" y="38">VoiceOver</tspan>
+        </text>
+    </g>
+</svg>
