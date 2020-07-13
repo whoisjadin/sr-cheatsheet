@@ -3,10 +3,54 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>VoiceOver Cheat Sheet</title>
+    <title>Screen Reader Cheat Sheet</title>
     <link rel="stylesheet" href="sr-cheatsheet.css">
 </head>
 <body>
-    <img src="vo-cheatsheet@2x.png" class="cheatsheet" alt="VoiceOver Cheat Sheet v1.0">
+    <div class="tabs">
+        <div role="tablist" aria-label="Screen Reader Selection">
+            <button role="tab"
+                aria-selected="true"
+                aria-controls="vo-tab"
+                id="vo">
+                VoiceOver
+            </button>
+            <button role="tab"
+                aria-selected="false"
+                aria-controls="nvda-tab"
+                id="nvda"
+                tabindex="-1">
+                NVDA
+             </button>
+            <button role="tab"
+                aria-selected="false"
+                aria-controls="jaws-tab"
+                id="jaws"
+                tabindex="-1">
+                JAWS
+            </button>
+        </div>
+        <div tabindex="0"
+            role="tabpanel"
+            id="vo-tab"
+            aria-labelledby="vo">
+            <img src="vo-cheatsheet@2x.png" class="cheatsheet" alt="VoiceOver Cheat Sheet v1.0">
+        </div>
+        <div tabindex="0"
+            role="tabpanel"
+            id="nvda-tab"
+            aria-labelledby="nvda"
+            hidden="">
+            <p>NVDA Cheatsheet coming soon</p>
+        </div>
+        <div tabindex="0"
+            role="tabpanel"
+            id="jaws-tab"
+            aria-labelledby="jaws"
+            hidden="">
+            <p>JAWS Cheatsheet coming soon</p>
+        </div>
+    </div>
+    <script src="sr-cheatsheet.js" charset="utf-8"></script>
 </body>
 </html>

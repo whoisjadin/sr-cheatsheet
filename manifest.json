@@ -1,5 +1,5 @@
 {
-    "name": "VoiceOver Cheat Sheet",
+    "name": "Screen Reader Cheat Sheet",
     "version": "1.0",
     "description": "For those starting to design, develop and test for Accessibility on the mac, this is a handy cheat-sheet for a variety of screen readers.",
     "manifest_version": 2,
