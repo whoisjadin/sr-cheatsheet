@@ -163,6 +163,16 @@
     // Remove hidden attribute from tab panel to make it visible
     document.getElementById(controls).removeAttribute('hidden');
 
+    if (tab.className.search('vo') !== -1) {
+      document.body.style.backgroundColor = '#3647FF';
+    }
+    if (tab.className.search('nvda') !== -1) {
+      document.body.style.backgroundColor = '#448500';
+    }
+    if (tab.className.search('jaws') !== -1) {
+      document.body.style.backgroundColor = '#7E00A1';
+    }
+
     // Set focus when required
     if (setFocus) {
       tab.focus();

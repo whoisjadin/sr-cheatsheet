@@ -1,4 +1,42 @@
-.cheatsheet {
-    width: 300px;;
+body {
+    background-color: #3647FF;
+    margin: 0;
+}
 
+.cheatsheet {
+    min-width: 300px;
+}
+
+.tab {
+    width: 33%;
+    height: 36px;
+    margin: 8px;
+    font-weight: bold;
+    border-radius: 0;
+    border: none;
+    background-color: white;
+    outline: 2px solid #161616;
+}
+
+.tab.vo:focus, .tab.vo:hover {
+    background-color: #3647FF;
+    outline: 2px solid white;
+    color: white;
+}
+
+.tab.nvda:focus, .tab.nvda:hover {
+    background-color: #448500;
+    outline: 2px solid white;
+    color: white;
+}
+
+.tab.jaws:focus, .tab.jaws:hover {
+    background-color: #7E00A1;
+    outline: 2px solid white;
+    color: white;
+}
+
+.tablist {
+    display: flex;
+    justify-content: space-between;
 }
